@@ -1,0 +1,22 @@
+{
+  "name": "stm32-ssd1306",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Aleksander Alekseev",
+      "url": "https://eax.me/",
+      "email": "afiskon@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lnkkerst/stm32-ssd1306.git"
+  },
+  "frameworks": "stm32cube",
+  "platforms": "ststm32",
+  "build": {
+    "srcDir": "./ssd1306",
+    "includeDir": "./ssd1306"
+  }
+}
